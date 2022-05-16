@@ -1,0 +1,12 @@
+{
+  "translation": {
+    "leftBar": {
+      "home": "Home",
+      "reviewPlans": "Review Plans",
+      "table": "Table",
+      "board": "Kanban Board",
+      "cards": "Cards",
+      "users": "Users"
+    }
+  }
+}
